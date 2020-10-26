@@ -1,0 +1,1 @@
+planejamento, analise, modelagem e implementação de testes relacionados com um software capaz de gerenciar listas de compras via Web, Mobile e API. usando o Microsoft To Do usando como objeto de estudo para esse cenário.
